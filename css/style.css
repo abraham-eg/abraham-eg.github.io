@@ -146,7 +146,7 @@ color: #fff;
 
 .link{
 	padding:15px 35px;
-	background:#7cc576;
+	background:#66cbcb;
 	color:#fff !important;
 	font-size:16px;
 	font-weight:400;
@@ -341,7 +341,7 @@ color: #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .Portfolio-nav li a:hover{
-	background:#7cc576;
+	background:#66cbcb;
 	color:#fff;
 	text-decoration:none;
 }
@@ -372,7 +372,7 @@ color: #fff;
 }
 
 .Portfolio-nav li a.current{
-	background:#7cc576;
+	background:#66cbcb;
 	color:#fff;
 	text-decoration:none;
 }
@@ -675,6 +675,15 @@ border: 2px solid #fff;
 .facebook a:hover {
 	background: #3b5998;
 }
+.telegram a:hover {
+	background: #229ed9;
+}
+.instagram a:hover {
+	background: #c13584;
+}
+.tiktok a:hover {
+	background: #000000;
+}
 .pinterest a:hover {
 	background: #cb2026;
 }
@@ -719,7 +728,7 @@ border: 2px solid #fff;
 .input-btn{
 	width:175px;
 	height:50px;
-	background:#7cc576;
+	background:#66cbcb;
 	border-radius:4px;
 	color:#ffffff;
 	font-size:14px;
